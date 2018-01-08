@@ -2,7 +2,7 @@
 
 This repository partially duplicates an internal University of Minnesota GitHub repo containing a semester project from CSCI 5271: Computer Security. Our project focused on Evil Twin Access Points by replicating certain defenses and attacks. 
 
-One of my primary contribution to the project focused on programmatically connecting to wireless networks on Windows and Linux machines, presented here as WiFi Helper.
+One of my primary contributions to the project focused on programmatically connecting to wireless networks on Windows and Linux machines, presented here as WiFi Helper.
 
 ## WiFi Helper
 ### Summary
